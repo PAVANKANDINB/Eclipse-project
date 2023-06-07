@@ -1,0 +1,5 @@
+samsung,
+1+,
+oppo,
+realme,
+mi.
